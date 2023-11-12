@@ -1,6 +1,6 @@
 # Vanessa Carvalho Lima
 
-Hi there! I am Vanessa, a student in the Computer Science at the State University of Ceará. Currently, I am focusing on studying more about C and C++.
+Hi there! I am Vanessa, a student in Computer Science at the State University of Ceará. Currently, I am focusing on studying more about C and C++.
 
 ![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnscarli&show_icons=true&theme=synthwave)
 
