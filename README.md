@@ -1,8 +1,8 @@
 # Vanessa Carvalho Lima
 
-Hi there! I am Vanessa, a student in Computer Science at the State University of Ceará. Currently, I am focusing on studying more about Django.
+Hi there! I am Carlos!
 
-![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnscarli&show_icons=true&theme=synthwave)
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnscarli&show_icons=true&theme=synthwave)
 
 ## My Skills
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
