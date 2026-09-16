@@ -1,10 +1,17 @@
-# Carlos Carvalho Lima
+# Hi there! I'm Carlos Carvalho Lima 👋 
 
-Hi there! I am Carlos!
+🎓 \*\*M.Sc. Student at UNICAMP\*\*, researching \*\*Fully Homomorphic Encryption (FHE)\*\*.
 
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnscarli&show_icons=true&theme=synthwave)
 
-## My Skills
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+### 🔬 Research &amp; Current Focus 
+- 🔐 Researching \*\*Fully Homomorphic Encryption (FHE)\*\* and cryptographic privacy at \*\*UNICAMP\*\*.
+- 🧪 Developing [fhe-ppml](https://github.com/Vnscarli/fhe-ppml) for privacy-preserving ML models. 
+
+### 🛠️ My Skills 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white) 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white) 
+
+
+### 📫 Let's Connect 
+- 💼 [LinkedIn](https://www.linkedin.com/in/carlos-carvalho-lima) 
