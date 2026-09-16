@@ -1,10 +1,10 @@
 # Hi there! I'm Carlos Carvalho Lima 👋 
 
-🎓 \*\*M.Sc. Student at UNICAMP\*\*, researching \*\*Fully Homomorphic Encryption (FHE)\*\*.
+## 🎓 M.Sc. Student at UNICAMP, researching Fully Homomorphic Encryption (FHE).
 
 
 ### 🔬 Research &amp; Current Focus 
-- 🔐 Researching \*\*Fully Homomorphic Encryption (FHE)\*\* and cryptographic privacy at \*\*UNICAMP\*\*.
+- 🔐 Researching Fully Homomorphic Encryption (FHE) and cryptographic privacy at UNICAMP.
 - 🧪 Developing [fhe-ppml](https://github.com/Vnscarli/fhe-ppml) for privacy-preserving ML models. 
 
 ### 🛠️ My Skills 
